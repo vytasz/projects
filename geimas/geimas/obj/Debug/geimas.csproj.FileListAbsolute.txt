@@ -1,0 +1,10 @@
+C:\Users\user\Aktualu\kiti failai\ce sharpsas\geimas\geimas\bin\Debug\geimas.exe.config
+C:\Users\user\Aktualu\kiti failai\ce sharpsas\geimas\geimas\bin\Debug\geimas.exe
+C:\Users\user\Aktualu\kiti failai\ce sharpsas\geimas\geimas\bin\Debug\geimas.pdb
+C:\Users\user\Aktualu\kiti failai\ce sharpsas\geimas\geimas\obj\Debug\geimas.csprojAssemblyReference.cache
+C:\Users\user\Aktualu\kiti failai\ce sharpsas\geimas\geimas\obj\Debug\geimas.Form1.resources
+C:\Users\user\Aktualu\kiti failai\ce sharpsas\geimas\geimas\obj\Debug\geimas.Properties.Resources.resources
+C:\Users\user\Aktualu\kiti failai\ce sharpsas\geimas\geimas\obj\Debug\geimas.csproj.GenerateResource.cache
+C:\Users\user\Aktualu\kiti failai\ce sharpsas\geimas\geimas\obj\Debug\geimas.csproj.CoreCompileInputs.cache
+C:\Users\user\Aktualu\kiti failai\ce sharpsas\geimas\geimas\obj\Debug\geimas.exe
+C:\Users\user\Aktualu\kiti failai\ce sharpsas\geimas\geimas\obj\Debug\geimas.pdb
